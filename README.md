@@ -18,7 +18,7 @@ or with python 3:
 
 Then browse to http://127.0.0.1:8000/
 
-# Translations
+## Translations
 
 This site uses [l20n.js](http://l20n.org/) v5.0 to translate static html content. Please take a moment to familiarize yourself
 with its rules and syntax before adding content or translations.
